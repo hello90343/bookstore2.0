@@ -1,0 +1,13 @@
+:root{
+    --darkblue-color :  rgb(0, 0, 53);
+    --wheat-color : wheat;
+    --redLike-color: rgb(204,0,0);
+}
+
+.test1{
+    border: rgb(136, 0, 0) 2px solid;
+}
+
+.test2{
+    border: rgb(65, 255, 84) 5px solid;
+}
